@@ -1,0 +1,6 @@
+wget
+unzip
+zipalign
+openjdk-17
+python
+pip
