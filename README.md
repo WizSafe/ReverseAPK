@@ -24,27 +24,32 @@ Ensure the following packages are installed before running the tool:
 ## Installation
 Follow these steps to set up and run the tool:
 
-### **Step 1: Clone the Repository**
+## **Step 1: Clone the Repository**
 Clone the tool from GitHub:
+
 ```bash
 git clone https://github.com/YourUsername/ReverseAPK.git
+```
 
-### **Step 2: Navigate to the Tool Directory**
-
-```bash
-cd ReverseAPK```
-
-### **Step 3: Install Dependencies***
+## **Step 2: Navigate to the Tool Directory**
 
 ```bash
-bash install.sh```
+cd ReverseAPK
+```
 
-### **Step 4: Run the Tool**
+## **Step 3: Install Dependencies**
 
 ```bash
-python ReverseAPK.py```
+bash install.sh
+```
 
-### **Disclaimer**
+## **Step 4: Run the Tool**
+
+```bash
+python ReverseAPK.py
+```
+
+## **Disclaimer**
 
 This tool is for educational purposes only. The authors are not responsible for any misuse of this tool.
 
